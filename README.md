@@ -1,7 +1,9 @@
 <h3 align="center"> Hello World. </h3>
 
 <p align="center">
- I'm Mahmoud Mohammed, I have a Bachelor’s degree in Computer Engineering, a self-motivated tech enthusiast and FrontEnd web developer.
+ Mahmoud Mohammed,
+ Bachelor’s degree in Computer Engineering,
+ a self-motivated tech enthusiast and FrontEnd web developer.
 </p>
 
 <h4 align="center">
