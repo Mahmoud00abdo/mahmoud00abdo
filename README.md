@@ -11,11 +11,6 @@ Mahmoud Mohammed</h4>
  a self-motivated tech enthusiast and FrontEnd web developer.
 </p>
 
-<h4 align="center">
-💻 FrontEnd developer
-</h4>
-
-
 <br/>
 
 <h3 align="center">
