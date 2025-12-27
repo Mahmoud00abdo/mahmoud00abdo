@@ -1,8 +1,8 @@
 <h3 align="center"> Hello World. </h3>
 
 <p align="center">
- Mahmoud Mohammed,
- Bachelor’s degree in Computer Engineering,
+ Mahmoud Mohammed,<br/>
+ Bachelor’s degree in Computer Engineering,<br/>
  a self-motivated tech enthusiast and FrontEnd web developer.
 </p>
 
