@@ -12,7 +12,7 @@
 <br/>
 
 <h3 align="center">
-<img src="https://github.com/Mahmoud00abdo/mahmoud00abdo/blob/main/progammer-code-coding-16-10-2024-1729112992-hd-wallpaper.png" alt="stacks"/>
+<img src="progammer-code-coding-16-10-2024-1729112992-hd-wallpaper.png" alt="stacks"/>
 </h3>
 
 
